@@ -1,1 +1,2 @@
 # SD_Nishtha_060
+# Day1- Basic Introduction Of Python Like (Datatypes,Operators,type....)
