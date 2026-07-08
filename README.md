@@ -3,3 +3,7 @@
 # Day2- Functions
 # Day3-Lambda Function
 # Day4-ATM_Card , Calculator
+# Day5-Map_ Reduce_&_Filter_fun
+   
+    
+
