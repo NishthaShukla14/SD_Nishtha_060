@@ -18,6 +18,15 @@ print(list)
 print(list[0])
 print(list[0:2])
 
+list[2]=10
+print(list)
+
+
+
+
+
+
+
 
 
 
