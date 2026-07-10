@@ -28,6 +28,16 @@ print(list*3) # Repetetion
 list1.append(6)
 print(list1)
 
+list1.insert(5,10)
+list1.remove(10) # Takes Value
+list1.pop()
+list1.clear()
+print(list1)
+
+l1=[10,20,30,40]
+l2 = l1.copy()
+print(l2)
+
 
 
 
