@@ -14,6 +14,19 @@
 
 
 
+# num = int(input("Enter the number: "))
+# if num < 0:
+#     print("The factorial of negative numbers dont exist")
+# if num == 0:
+#     print("The factorial of 0 is 1")
+# fact = 1
+# if num >=1:
+#     for i in range(1,num+1):
+#         fact *= i
+#     print("The factorial of",num, "is",fact)
+
+
+
 
 
 
