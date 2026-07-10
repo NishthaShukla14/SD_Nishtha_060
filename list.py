@@ -13,8 +13,10 @@ print(list3)
 list.extend(list1)
 print(list)
 
+# Accessing of List
 
-
+print(list[0])
+print(list[0:2])
 
 
 
