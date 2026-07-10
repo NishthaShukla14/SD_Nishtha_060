@@ -6,6 +6,10 @@
 #     print(num*1)
 
 
-
+# num = int(input("Enter the number: "))
+# sum = 0
+# for i in range(1,num+1):
+#     sum += i
+# print("The sum of first " , num , " natural number is: " , sum)
 
 
