@@ -21,6 +21,11 @@ print(list[0:2])
 list[2]=10
 print(list)
 
+list.extend(list3)
+print(list + list2) # Concatenation
+print(list*3) # Repetetion
+
+
 
 
 
