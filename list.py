@@ -25,6 +25,8 @@ list.extend(list3)
 print(list + list2) # Concatenation
 print(list*3) # Repetetion
 
+list1.append(6)
+print(list1)
 
 
 
