@@ -14,7 +14,7 @@
 
 # class Student:
 #     def __init__(self):
-#         self.__name = "Yash"  #Private variable - Double underscore
+#         self.__name = "Nishtha"  #Private variable - Double underscore
 
 #     def show(self):
 #         print(self.__name)
