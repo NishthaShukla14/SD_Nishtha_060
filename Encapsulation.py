@@ -28,7 +28,7 @@
 
 # class Student:
 #     def __init__(self):
-#         self.__name = "Vineet"
+#         self.__name = "Amulya"
 
 #     def get_mark(self): #getter
 #         return self.__name
