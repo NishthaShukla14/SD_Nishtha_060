@@ -1,6 +1,6 @@
 # class Student:
 #     def __init__(self):
-#         self._name = "Yash"
+#         self._name = "Nishtha"
 
 #     def show(self):
 #         print(self._name)
